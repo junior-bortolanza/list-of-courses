@@ -22,9 +22,9 @@ University International — Brazil [website](https://www.uninter.com/)
 
 ## 🌎 Languages
 
-- Portuguese — Native
-- English — Advanced
-- Spanish — Basic
+- **Portuguese:** — Native :brazil:
+- **English** — Advanced
+- **Spanish** — Basic
 
 ---
 
@@ -107,3 +107,4 @@ Below are the courses I completed during my learning journey in technology.
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
