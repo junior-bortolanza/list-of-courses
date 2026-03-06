@@ -87,9 +87,13 @@ Below are the courses I completed during my learning journey in technology. 🧑
 - Python and TDD: Exploring Unit Tests. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/e032ba83-8172-4e0b-99e7-debbd51b8b02?lang=en)
 - Python: applying Object Orientation. School: [Alura](https://www.alura.com.br/). Duration: 6h :paperclip: [here](https://cursos.alura.com.br/certificate/84fbc38b-66d1-49b5-9d02-4703aa71ad9c?lang=en)
 - Python: advancing Object Orientation and consuming API. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/267c2714-5ba5-47e2-90df-bb415ea16c84?lang=en)
-- Enrolled with Academic Record (RA) No. 973908, successfully completed the extension course “specialization/training
-in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 100h :paperclip: [here](https://cursos.alura.com.br/certificate/267c2714-5ba5-47e2-90df-bb415ea16c84?lang=en)
+- Python Fundamentals. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 10h :paperclip: [here](https://app.rocketseat.com.br/certificates/81437ac7-a4e3-4de0-b8d4-de6d14b300a9)
+- RabbitMQ with Python, and Flask. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 3h :paperclip: [here](https://app.rocketseat.com.br/certificates/dd09f8f9-e214-41b2-bb08-f5007340518a)
+- JWT Authentication and Security with Pyhon. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 7h :paperclip: [here](https://app.rocketseat.com.br/certificates/e8fd8aef-2a87-426c-b3b0-a03bf88df300)
 
+
+- Enrolled with Academic Record (RA) No. 973908, successfully completed the extension course “specialization/training
+in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 100h :paperclip: [here](https://app.rocketseat.com.br/certificates/1b742e97-1b86-4498-9c65-5c20121fa347)
 
 
 `Django`:
@@ -100,6 +104,11 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 - API with Django 3: Django Rest Framework. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/d72dd87c-cca5-49d8-b8cf-b7c197c79b17?lang=en)
 - Django REST Framework: Working with Validations, Pagination, Filters, and Versioning in an API. School: [Alura](https://www.alura.com.br/). Duration: 6h :paperclip: [here](https://cursos.alura.com.br/certificate/dd74babc-89f4-4a1e-8f99-8bacf5bcd8e1?lang=en)
 - Django REST Framework: building RESTful APIs from the beginning. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/0935a8b8-da76-4a92-86e0-6f2a2e665309?lang=en)
+
+`Flask`:
+- Exploring the Flask Framework. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 10h :paperclip: [here](https://app.rocketseat.com.br/certificates/88c5fd6f-e069-4b37-8c47-226371e98414)
+- Applications with Redis, Python, and Flask. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 4h :paperclip: [here](https://app.rocketseat.com.br/certificates/ff669a74-1d02-45af-ac81-56a802b2e1cf)
+
 
 ---
 
@@ -131,6 +140,7 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
