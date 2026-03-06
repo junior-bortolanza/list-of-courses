@@ -66,7 +66,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ### 🌱 Spring Framework
 
 - Java: working with lambdas, streams and Spring Framework. School: [Alura](https://www.alura.com.br/). Duration: 14h :paperclip: [here](https://cursos.alura.com.br/certificate/c72d864f-ab02-404a-b676-70c1e6b3514e?lang=en)
-- Java Spring Professional School: [DevSuperior](https://devsuperior.com.br/). Duration: 120h :paperclip: [here](https://devsuperior.club/c/5-22862)
+- Java Spring Professional. School: [DevSuperior](https://devsuperior.com.br/). Duration: 120h :paperclip: [here](https://devsuperior.club/c/5-22862)
 
 ---
 
@@ -106,6 +106,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
