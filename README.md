@@ -40,8 +40,8 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ---
 
 ### 🔧 Git & Version Control
-
-- Course Name — Platform — Duration
+:
+- Git and GitHub: sharing and collaborating on projects. School: [Alura](https://www.alura.com.br/) — Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/f7465a05-b409-48fb-8b9d-edcc025f9ffd?lang=en)
 - Course Name — Platform — Duration
 
 ---
@@ -104,6 +104,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
