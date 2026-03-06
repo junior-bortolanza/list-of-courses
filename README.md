@@ -87,6 +87,14 @@ Below are the courses I completed during my learning journey in technology. 🧑
 - Python and TDD: Exploring Unit Tests. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/e032ba83-8172-4e0b-99e7-debbd51b8b02?lang=en)
 - Python: applying Object Orientation. School: [Alura](https://www.alura.com.br/). Duration: 6h :paperclip: [here](https://cursos.alura.com.br/certificate/84fbc38b-66d1-49b5-9d02-4703aa71ad9c?lang=en)
 - Python: advancing Object Orientation and consuming API. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/267c2714-5ba5-47e2-90df-bb415ea16c84?lang=en)
+`Django`:
+- Django: templates and best practices. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/8563f406-e349-450f-a151-3961676fb1d5?lang=en)
+- Django: data persistence and Admin. School: [Alura](https://www.alura.com.br/). Duration: 10h :paperclip: [here](https://cursos.alura.com.br/certificate/80983bd4-9dc5-4a91-a1b7-a17e3237d831?lang=en)
+- Django: forms authentication and alerts. School: [Alura](https://www.alura.com.br/). Duration: 10h :paperclip: [here](https://cursos.alura.com.br/certificate/c27286fd-c695-4bf5-9837-1a3d80612bc1?lang=en)
+- Django: CRUD and persistence on S3. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/c91be361-886a-42a3-bbfa-26346eefcfb1?lang=en)
+- API with Django 3: Django Rest Framework. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/d72dd87c-cca5-49d8-b8cf-b7c197c79b17?lang=en)
+- Django REST Framework: Working with Validations, Pagination, Filters, and Versioning in an API. School: [Alura](https://www.alura.com.br/). Duration: 6h :paperclip: [here](https://cursos.alura.com.br/certificate/dd74babc-89f4-4a1e-8f99-8bacf5bcd8e1?lang=en)
+- Django REST Framework: building RESTful APIs from the beginning. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/0935a8b8-da76-4a92-86e0-6f2a2e665309?lang=en)
 
 ---
 
@@ -96,7 +104,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 
 ---
 
-### Microservices
+### Software Architecture & Microsservices
 
 - Microservices: exploring the concepts. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/30626c96-cbb2-4fa2-bf7f-fe5f39e3a032?lang=en)
 - Microservices: Design Patterns. School: [Alura](https://www.alura.com.br/). Duration: 6h :paperclip: [here](https://cursos.alura.com.br/certificate/3bf55747-5052-498b-bed8-e591f5315b07?lang=en)
@@ -118,6 +126,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
