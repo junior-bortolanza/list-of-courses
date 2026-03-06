@@ -29,7 +29,7 @@ University International — Brazil [website](https://www.uninter.com/) - 2024 �
 
 ## 📖 Courses
 
-Below are the courses I completed during my learning journey in technology. :🧑‍💻:
+Below are the courses I completed during my learning journey in technology. 🧑‍💻
 
 ---
 
@@ -104,6 +104,7 @@ Below are the courses I completed during my learning journey in technology. :�
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
