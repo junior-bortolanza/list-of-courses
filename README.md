@@ -87,6 +87,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 - Python and TDD: Exploring Unit Tests. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/e032ba83-8172-4e0b-99e7-debbd51b8b02?lang=en)
 - Python: applying Object Orientation. School: [Alura](https://www.alura.com.br/). Duration: 6h :paperclip: [here](https://cursos.alura.com.br/certificate/84fbc38b-66d1-49b5-9d02-4703aa71ad9c?lang=en)
 - Python: advancing Object Orientation and consuming API. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/267c2714-5ba5-47e2-90df-bb415ea16c84?lang=en)
+
 `Django`:
 - Django: templates and best practices. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/8563f406-e349-450f-a151-3961676fb1d5?lang=en)
 - Django: data persistence and Admin. School: [Alura](https://www.alura.com.br/). Duration: 10h :paperclip: [here](https://cursos.alura.com.br/certificate/80983bd4-9dc5-4a91-a1b7-a17e3237d831?lang=en)
@@ -126,6 +127,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
