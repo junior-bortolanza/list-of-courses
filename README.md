@@ -82,7 +82,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 
 - Python: creating your first application. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/7cfd613b-2f0b-4d18-bc20-4eb1f6556c7a?lang=en)
 - Practicing Python: for and while loops. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/a25983d6-1698-400d-b3d5-ae2bcf859d42?lang=en)
-- Practicing Python: If, Elif, and Else conditionals. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here] (hhttps://cursos.alura.com.br/certificate/89640d18-192a-434a-bad0-b44690f533a7?lang=en)
+- Practicing Python: If, Elif, and Else conditionals. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/89640d18-192a-434a-bad0-b44690f533a7?lang=en)
 - Practicing Python: functions. School: [Alura](https://www.alura.com.br/). Duration: 10h :paperclip: [here](https://cursos.alura.com.br/certificate/ea9aff8f-3794-4da9-bdec-a463a48aa477?lang=en)
 - Python and TDD: Exploring Unit Tests. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/e032ba83-8172-4e0b-99e7-debbd51b8b02?lang=en)
 - Python: applying Object Orientation. School: [Alura](https://www.alura.com.br/). Duration: 6h :paperclip: [here](https://cursos.alura.com.br/certificate/84fbc38b-66d1-49b5-9d02-4703aa71ad9c?lang=en)
