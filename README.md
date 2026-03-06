@@ -35,9 +35,7 @@ Below are the courses I completed during my learning journey in technology. :�
 
 ### 🐧 Linux
 
-- Linux Onboarding: Using the CLI Quickly and Easily. _School: [Alura](https://www.alura.com.br/) _Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/5f245158-bf43-4d38-b705-e09b5b4b8e38?lang=en)
-- Course Name — Platform — Duration
-- Course Name — Platform — Duration
+- Linux Onboarding: Using the CLI Quickly and Easily. School: [Alura](https://www.alura.com.br/) Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/5f245158-bf43-4d38-b705-e09b5b4b8e38?lang=en)
 
 ---
 
@@ -106,6 +104,7 @@ Below are the courses I completed during my learning journey in technology. :�
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
