@@ -15,7 +15,7 @@ This repository contains a summary of my `academic life.` back ground and the te
 ## 🎓 Academic Education
 
 `Systems Analysis and Development`  
-University International — Brazil [website](https://www.uninter.com/) - 2024 – 2026
+University International (UNINTER) - Brazil [website](https://www.uninter.com/) - 2024 – 2026
 
 ---
 
@@ -104,6 +104,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
