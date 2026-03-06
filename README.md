@@ -90,11 +90,8 @@ Below are the courses I completed during my learning journey in technology. 🧑
 - Python Fundamentals. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 10h :paperclip: [here](https://app.rocketseat.com.br/certificates/81437ac7-a4e3-4de0-b8d4-de6d14b300a9)
 - RabbitMQ with Python, and Flask. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 3h :paperclip: [here](https://app.rocketseat.com.br/certificates/dd09f8f9-e214-41b2-bb08-f5007340518a)
 - JWT Authentication and Security with Pyhon. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 7h :paperclip: [here](https://app.rocketseat.com.br/certificates/e8fd8aef-2a87-426c-b3b0-a03bf88df300)
-
-
 - Enrolled with Academic Record (RA) No. 973908, successfully completed the extension course “specialization/training
 in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 100h :paperclip: [here](https://app.rocketseat.com.br/certificates/1b742e97-1b86-4498-9c65-5c20121fa347)
-
 
 `Django`:
 - Django: templates and best practices. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/8563f406-e349-450f-a151-3961676fb1d5?lang=en)
@@ -140,6 +137,7 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
