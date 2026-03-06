@@ -29,7 +29,7 @@ University International (UNINTER) - Brazil [website](https://www.uninter.com/) 
 
 ## 📖 Courses
 
-Below are the courses I completed during my learning journey in technology. 🧑‍💻
+Below are the courses I completed during my learning journey in technology. There are currently `42` courses with a total of `527` hours. 🧑‍💻
 
 ---
 
@@ -131,6 +131,7 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
