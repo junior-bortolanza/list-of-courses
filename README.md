@@ -1,6 +1,6 @@
 # 🎓 Academic & Learning Journey
 
-This repository contains a summary of my `academic life.` back ground and the technical courses I have completed throughout my journey in technology and software development. :heart_eyes:
+This repository contains a summary of my `academic life` back ground and the technical courses I have completed throughout my journey in technology and software development. :heart_eyes:
 
 ---
 
@@ -40,7 +40,7 @@ Below are the courses I completed during my learning journey in technology. 🧑
 ---
 
 ### 🔧 Git & Version Control
-:
+
 - Git and GitHub: sharing and collaborating on projects. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/f7465a05-b409-48fb-8b9d-edcc025f9ffd?lang=en)
 
 ---
@@ -90,6 +90,9 @@ Below are the courses I completed during my learning journey in technology. 🧑
 - Python Fundamentals. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 10h :paperclip: [here](https://app.rocketseat.com.br/certificates/81437ac7-a4e3-4de0-b8d4-de6d14b300a9)
 - RabbitMQ with Python, and Flask. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 3h :paperclip: [here](https://app.rocketseat.com.br/certificates/dd09f8f9-e214-41b2-bb08-f5007340518a)
 - JWT Authentication and Security with Pyhon. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 7h :paperclip: [here](https://app.rocketseat.com.br/certificates/e8fd8aef-2a87-426c-b3b0-a03bf88df300)
+- Code design with Pyhon. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 6h :paperclip: [here](https://app.rocketseat.com.br/certificates/464a1650-dd7b-4f6e-85cb-89fe97f53453)
+- NoSQL with MongoDB utilizing Pyhon. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 6h :paperclip: [here](https://app.rocketseat.com.br/certificates/3a152d5b-5414-434d-a16c-c1ca1c1be109)
+- Software Architecture and MVC Pattern. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 10h :paperclip: [here](https://app.rocketseat.com.br/certificates/af3b0d93-9925-40ce-8e76-19466a0748b5)
 - Enrolled with Academic Record (RA) No. 973908, successfully completed the extension course “specialization/training
 in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 100h :paperclip: [here](https://app.rocketseat.com.br/certificates/1b742e97-1b86-4498-9c65-5c20121fa347)
 
@@ -106,7 +109,6 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 - Exploring the Flask Framework. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 10h :paperclip: [here](https://app.rocketseat.com.br/certificates/88c5fd6f-e069-4b37-8c47-226371e98414)
 - Applications with Redis, Python, and Flask. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 4h :paperclip: [here](https://app.rocketseat.com.br/certificates/ff669a74-1d02-45af-ac81-56a802b2e1cf)
 
-
 ---
 
 ### 🗄 Databases
@@ -122,21 +124,14 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 
 ---
 
-### ☁ Cloud
+### 🤖 IA
 
-- Course Name — Platform — Duration
-- Course Name — Platform — Duration
-
----
-
-### 🛠 Tools
-
-- Course Name — Platform — Duration
-- Course Name — Platform — Duration
+- GPT and Python: creating tools with the API. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/d32e8be9-6b70-40ea-819a-828c36a6327d?lang=en)
 
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
