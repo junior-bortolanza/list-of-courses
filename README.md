@@ -132,7 +132,13 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 
 ---
 
+### 🏗️: Software Architecture
+
+- Fundamentals of software architecture. School: [FullCycle](https://fullcycle.com.br/). Duration: 15h :paperclip: [here](https://fullcycle.com.br/certificado/973a0f98-b33d-4b59-985d-551937b08c18/)
+
+
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
