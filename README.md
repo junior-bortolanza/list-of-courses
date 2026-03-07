@@ -29,7 +29,7 @@ University International (UNINTER) - Brazil [website](https://www.uninter.com/) 
 
 ## 📖 Courses
 
-Below are the courses I completed during my learning journey in technology. There are currently `42` courses with a total of `527` hours. 🧑‍💻
+Below are the courses I completed during my learning journey in technology. There are currently `42` courses with a total of `531` hours. 🧑‍💻
 
 ---
 
@@ -38,10 +38,11 @@ Below are the courses I completed during my learning journey in technology. Ther
 - Linux Onboarding: Using the CLI Quickly and Easily. School: [Alura](https://www.alura.com.br/) Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/5f245158-bf43-4d38-b705-e09b5b4b8e38?lang=en)
 
 ---
-
+Introduction to A
 ### 🔧 Git & Version Control
 
 - Git and GitHub: sharing and collaborating on projects. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/f7465a05-b409-48fb-8b9d-edcc025f9ffd?lang=en)
+- The basics of Git and GitHub. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 1h :paperclip: [here](https://app.rocketseat.com.br/certificates/4d418ff2-9691-4db3-a898-461300fa5ada)
 
 ---
 
@@ -127,10 +128,12 @@ in Final Certificate - Python. School: [Rocketseat](https://www.rocketseat.com.b
 ### 🤖 IA
 
 - GPT and Python: creating tools with the API. School: [Alura](https://www.alura.com.br/). Duration: 8h :paperclip: [here](https://cursos.alura.com.br/certificate/d32e8be9-6b70-40ea-819a-828c36a6327d?lang=en)
+- Introduction to AI. School: [Rocketseat](https://www.rocketseat.com.br/). Duration: 3h :paperclip: [here](https://app.rocketseat.com.br/certificates/60a6003e-333e-42fa-b4ee-33677e744fee)
 
 ---
 
 💡 Continuous learning is one of the most important aspects of building strong engineering skills.
+
 
 
 
